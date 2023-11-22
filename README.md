@@ -40,6 +40,18 @@ Client wants to create a Road Accident dashboard 0f year 2021 and 2022 so that t
 * Creating different charts and generating insights
 * Export the Report to users
 
+## STAKEHOLDERS
+
+* Ministry of Transport
+* Road Transport Department
+* Police Force
+* Emergency Services Department
+* Road Safety Corps
+* Transport Operators
+* Traffic Management Agencies
+* Public
+* Media
+
 ## DASHBOARD
 
 <img width="606" alt="Road data Analysis" src="https://github.com/Anupriya7566/Accident_Data_Analysis_Using_Powerbi/assets/132358357/95a3e248-5349-4efe-8d43-7118facdcae9">
